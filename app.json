@@ -16,7 +16,7 @@
       "description": "Your initial Instagram token value, sourced from Facebook's app dashboard."
     },
     "APP_NAME": {
-      "value": "2216947731821449",
+      "value": "greywhalewebiste",
       "description": "Copy the name you chose for your app here (so the app can know its own name)."
     },
     "ALLOWED_DOMAINS": {
@@ -24,7 +24,7 @@
       "description": "The domains you want to access your token from (separate with spaces)."
     },
     "WEBHOOK_SECRET": {
-      "generator": "4b630577ff662e39037e3917e9d55165",
+      "generator": "secret",
       "description": "Used to sign webhook requests coming in from the Temporize scheduling service."
     }
   },
