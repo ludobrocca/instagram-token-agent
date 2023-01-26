@@ -12,19 +12,19 @@
   ],
   "env": {
     "STARTING_TOKEN": {
-      "value": "copy_token_here",
+      "value": "IGQVJWaGd6SkNPSzd4ZAS1jSmxjdU1xMWp1X1ZAwQ2NzbW5LNDRXaTFPem9iemJwcTROMC1CZAHdrcjUxaUtJcEVRWUJDU3FyblM4ME55NkhSSlhWbzVJbUt6R25yQzJSZAUtRaXBhTW1QQWNiQ01ZAUUpVagZDZD",
       "description": "Your initial Instagram token value, sourced from Facebook's app dashboard."
     },
     "APP_NAME": {
-      "value": "copy_app_name_here",
+      "value": "2216947731821449",
       "description": "Copy the name you chose for your app here (so the app can know its own name)."
     },
     "ALLOWED_DOMAINS": {
-      "value": "yourwebsite.com",
+      "value": "greywhaletattoo.com",
       "description": "The domains you want to access your token from (separate with spaces)."
     },
     "WEBHOOK_SECRET": {
-      "generator": "secret",
+      "generator": "4b630577ff662e39037e3917e9d55165",
       "description": "Used to sign webhook requests coming in from the Temporize scheduling service."
     }
   },
