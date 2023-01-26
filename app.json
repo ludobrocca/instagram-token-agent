@@ -1,4 +1,5 @@
 {
+  "stack": "heroku-18",
   "name": "Instagram Token Agent",
   "description": "A service to keep your Instagram Basic Display API token fresh.",
   "repository": "https://github.com/companionstudio/instagram-token-agent",
